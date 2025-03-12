@@ -32,14 +32,3 @@ int main(){
         cout<<i+1<<" column : "<<sum<<endl;
     }
 }
-/*
-background-image: url(image.jpg);
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size: cover;
-         	height: 100vh;
-	        width: 100%;
-	        position: fixed; 
-	        top: 0;
-	        left: 0;
-*/
